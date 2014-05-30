@@ -12,8 +12,8 @@ Plot1.setName("Theta 1");
 options = {yaxis:{min:-2,max:2},xaxis:{min:0,max:10000,show:false}};
 
 Plot1.setOptions(options);
-Plot1.setPosition(113, 90);
-Plot1.setSize(800,600)
+Plot1.setSize(113, 90);
+Plot1.setPosition(20,490)
 Plot1.plotData("pendulum.mechanical.theta1");
 
 
