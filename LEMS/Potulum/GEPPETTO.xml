@@ -13,6 +13,13 @@
     				<tns:modelURL>https://raw.github.com/borismarin/org.geppetto.samples/master/LEMS/Potulum/dpend.xml</tns:modelURL>
 			</tns:model>
 		</tns:aspect>		
+		<tns:aspect>
+			<tns:id>visual</tns:id>
+			<tns:model>
+    				<tns:modelInterpreterId>colladaModelInterpreter</tns:modelInterpreterId>
+    				<tns:modelURL>https://raw.githubusercontent.com/openworm/org.geppetto.samples/master/Collada/atom.dae</tns:modelURL>
+			</tns:model>
+		</tns:aspect>		
 	</tns:entity>
 	<tns:script>https://raw.github.com/borismarin/org.geppetto.samples/master/LEMS/Potulum/Pot_Geppetto_Script.js</tns:script>
 	
