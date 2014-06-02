@@ -17,4 +17,5 @@ Plot1.setPosition(15,560)
 Plot1.plotData("pendulum.mechanical.theta1");
 
 
-window.setTimeout(function(){Simulation.mapWatchToRepresentation("pendulum.mechanical", "pendulum.mechanical.theta1", function(a, b){console.log('taka', a, b)})},500);
+// window.setTimeout(function(){Simulation.mapWatchToRepresentation("pendulum.mechanical", "pendulum.mechanical.theta1", function(a, b){console.log('taka', a, b)})},500);
+window.setTimeout(function(){Simulation.mapWatchToRepresentation("pendulum.mechanical", "pendulum.mechanical.theta1", function(a, b){},500);
