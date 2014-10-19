@@ -5,19 +5,19 @@
     <Target component="sim1"/>
 
     <!-- Include core NeuroML2 ComponentType definitions -->
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/Cells.xml"/>
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/Networks.xml"/>
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/Simulation.xml"/>
+	<Include file="/Cells.xml"/>
+	<Include file="/Networks.xml"/>
+	<Include file="/Simulation.xml"/>
 
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/Leak.channel.nml"/>
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/k_slow.channel.nml"/>
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/k_fast.channel.nml"/>
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/ca_boyle.channel.nml"/>
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/CaPool.nml"/>
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/SingleCompMuscle.cell.nml"/>
+    <Include url="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/Leak.channel.nml"/>
+    <Include url="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/k_slow.channel.nml"/>
+    <Include url="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/k_fast.channel.nml"/>
+    <Include url="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/ca_boyle.channel.nml"/>
+    <Include url="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/CaPool.nml"/>
+    <Include url="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/SingleCompMuscle.cell.nml"/>
 
 
-    <Include file="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/Figure2A.net.nml"/>
+    <Include url="https://raw.githubusercontent.com/openworm/muscle_model/master/NeuroML2/Figure2A.net.nml"/>
 
 
 
