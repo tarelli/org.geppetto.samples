@@ -9,9 +9,9 @@
 			</tns:simulator>
 			<tns:model>
     				<tns:modelInterpreterId>lemsModelInterpreter</tns:modelInterpreterId>
-					<tns:modelURL>file:///Users/dkruchinin/development/projects/ow/dev/org.geppetto.samples/LEMS/MuscleModel/LEMS_NeuronMuscle.xml</tns:modelURL>
+					<tns:modelURL>https://raw.githubusercontent.com/dkruchinin/org.geppetto.samples/muscle_model/LEMS/MuscleModel/LEMS_NeuronMuscle.xml</ltns:modelURL>
       </tns:model>
   </tns:aspect>
   </tns:entity>
-  <tns:script>file:///Users/dkruchinin/development/projects/ow/dev/org.geppetto.samples/LEMS/MuscleModel/script.js</tns:script>
+  <tns:script>https://raw.githubusercontent.com/dkruchinin/org.geppetto.samples/muscle_model/LEMS/MuscleModel/script.js</tns:script>
 </tns:simulation>
