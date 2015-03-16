@@ -21,7 +21,7 @@
 			</tns:model>
 		</tns:aspect>
 	</tns:entity>
-	<tns:script>https://raw.github.com/borismarin/org.geppetto.samples/master/LEMS/Potulum/Pot_Geppetto_Script.js</tns:script>
+	<tns:script>https://raw.githubusercontent.com/tarelli/org.geppetto.samples/patch-2/LEMS/Potulum/Pot_Geppetto_Script.js</tns:script>
 	
 </tns:simulation>
 
